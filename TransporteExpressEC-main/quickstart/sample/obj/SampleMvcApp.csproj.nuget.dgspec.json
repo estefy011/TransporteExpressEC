@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj": {}
+    "C:\\Users\\datru\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj": {
+    "C:\\Users\\datru\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj",
+        "projectUniqueName": "C:\\Users\\datru\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj",
         "projectName": "SampleMvcApp",
-        "projectPath": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj",
+        "projectPath": "C:\\Users\\datru\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj",
         "packagesPath": "C:\\Users\\datru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\obj\\",
+        "outputPath": "C:\\Users\\datru\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
