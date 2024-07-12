@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\viewmodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:viewmodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\controllers\\viajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:controllers\\viajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\views\\viajes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\viajes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\kms\\encryptdataexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:kms\\encryptdataexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\kms\\decryptdataexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:kms\\decryptdataexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\config\\lofty-psyche-429104-r5-9aabfb67e5fb.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:config\\lofty-psyche-429104-r5-9aabfb67e5fb.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\samplemvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:samplemvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\datru\\downloads\\transporteexpressec-main\\transporteexpressec-main\\quickstart\\sample\\migrations\\20240711043512_migracion2024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:migrations\\20240711043512_migracion2024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\ViewModels\\Response.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Response.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\ViewModels\\Response.cs",
+              "RelativeToolTip": "ViewModels\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:12:14.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\APIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\APIController.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\APIController.cs",
+              "RelativeToolTip": "Controllers\\APIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:34:09.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViajesController.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\ViajesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ViajesController.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\ViajesController.cs",
+              "RelativeToolTip": "Controllers\\ViajesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:24:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DecryptDataExample.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\KMS\\DecryptDataExample.cs",
+              "RelativeDocumentMoniker": "KMS\\DecryptDataExample.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\KMS\\DecryptDataExample.cs",
+              "RelativeToolTip": "KMS\\DecryptDataExample.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:22:49.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lofty-psyche-429104-r5-9aabfb67e5fb.json",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Config\\lofty-psyche-429104-r5-9aabfb67e5fb.json",
+              "RelativeDocumentMoniker": "Config\\lofty-psyche-429104-r5-9aabfb67e5fb.json",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Config\\lofty-psyche-429104-r5-9aabfb67e5fb.json",
+              "RelativeToolTip": "Config\\lofty-psyche-429104-r5-9aabfb67e5fb.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T04:14:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptDataExample.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\KMS\\EncryptDataExample.cs",
+              "RelativeDocumentMoniker": "KMS\\EncryptDataExample.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\KMS\\EncryptDataExample.cs",
+              "RelativeToolTip": "KMS\\EncryptDataExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:30:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\web.config",
+              "RelativeDocumentMoniker": "web.config",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\web.config",
+              "RelativeToolTip": "web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T04:25:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:22:45.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:22:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T05:11:34.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:25:04.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Views\\Viajes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Viajes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Views\\Viajes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Viajes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T04:41:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:22:45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-08T04:23:00.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-08T05:11:31.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAnwDEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:22:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SampleMvcApp.csproj",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj",
+              "RelativeDocumentMoniker": "SampleMvcApp.csproj",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\SampleMvcApp.csproj",
+              "RelativeToolTip": "SampleMvcApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T05:29:51.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240711043512_migracion2024.cs",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Migrations\\20240711043512_migracion2024.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240711043512_migracion2024.cs",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Migrations\\20240711043512_migracion2024.cs",
+              "RelativeToolTip": "Migrations\\20240711043512_migracion2024.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:35:12.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\datru\\Downloads\\TransporteExpressEC-main\\TransporteExpressEC-main\\quickstart\\sample\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:22:45.06Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2115209181:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
